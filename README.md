@@ -171,7 +171,7 @@ order by rnk1.round_number
 
 ### Updates
 
-Given a `tournament_id` and current round this SQL is executed to insert new Keizer scores that will be used for the following round:
+Given a `tournament_id` and the current round this SQL is executed to insert new Keizer scores that will be used for the follow-up round:
 
 ```sql
 WITH new_ranking
