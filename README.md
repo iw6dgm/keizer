@@ -106,7 +106,7 @@ Values for `result` column are '1-0', '0-1' and '½-½'. Other values can be use
 | score         | REAL      |
 -----------------------------
 
-This is view is created by:
+This view is created by:
 
 ```sql
 CREATE VIEW results as
